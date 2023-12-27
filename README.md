@@ -6,6 +6,11 @@
 - Master's Degree in Computer Science / Explainable Machine Learning @ Universidade Federal Fluminense (UFF)
 - MBA in Machine Learning & Artificial Intelligence @ Pontificia Universidade Católica (PUC)
 
+<h3 align="left">Last public works</h3>
+
+- Dropict (https://github.com/romponciano/dropict)
+- Transfer Fraud Detection (https://github.com/romponciano/fraud-transfer-detection)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romponciano&label=Profile%20views&color=0e75b6&style=flat" alt="romponciano" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romponciano" alt="romponciano" /></a> </p>
