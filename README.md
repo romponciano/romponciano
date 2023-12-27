@@ -2,9 +2,9 @@
 
 <h3 align="left">About me</h3>
 
-- Working at **[Intelie by Viasat](https://www.intelie.ai/)** as **Senior Software Engineer & Tech Lead** with **Machine Learning**, **Backend (Java)** and **Frontend (React)** for full integration on a Realtime Analysis Platform 
-- Master's Degree in Computer Science / Explainable Machine Learning @ Universidade Federal Fluminense (UFF)
-- MBA in Machine Learning & Artificial Intelligence @ Pontificia Universidade Católica (PUC)
+- 👨‍💻 Working at **[Intelie by Viasat](https://www.intelie.ai/)** as **Senior Software Engineer & Tech Lead** with **Machine Learning**, **Backend (Java)** and **Frontend (React)** for full integration on a Realtime Analysis Platform 
+- 🎓 Master's Degree in Computer Science / Explainable Machine Learning @ Universidade Federal Fluminense (UFF)
+- 🎓 MBA in Machine Learning & Artificial Intelligence @ Pontificia Universidade Católica (PUC)
 
 <h3 align="left">Last public works</h3>
 
