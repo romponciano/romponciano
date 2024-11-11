@@ -2,7 +2,7 @@
 
 <h3 align="left">About me</h3>
 
-- 👨‍💻 Working at **[Intelie by Viasat](https://www.intelie.ai/)** as **Senior Software Engineer & Tech Lead** with **Machine Learning**, **Backend (Java)** and **Frontend (React)** for full integration on a Realtime Analysis Platform 
+- 👨‍💻 Working at 🟣 **[Nubank](https://nubank.com.br/)** 🟣 as **Senior Software Engineer** 
 - 🎓 Master's Degree in Computer Science / Explainable Machine Learning @ Universidade Federal Fluminense (UFF)
 - 🎓 MBA in Machine Learning & Artificial Intelligence @ Pontificia Universidade Católica (PUC)
 
